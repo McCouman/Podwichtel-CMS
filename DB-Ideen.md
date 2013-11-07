@@ -1,4 +1,4 @@
-##Register
+#Register
 
 1.) Name des Podcasts 
 - (Der Name Eures Podcasts.)
@@ -42,3 +42,11 @@
 **mail** max.mustermann@podcastname.de
 
 **wichtel** 6 //id to wichtelcast
+
+
+#Admin
+
+- download metazip
+- upload auphonic
+- übersicht register
+- verlosung + save
