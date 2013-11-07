@@ -50,3 +50,5 @@
 - upload auphonic
 - übersicht register
 - verlosung + save
+- edit inputs
+- send mails (register thanks + key logins, verlosung)
