@@ -20,7 +20,6 @@
 - (Eure Mail-Adresse unter der wir mit Euch Kontakt aufnehmen können.)
 
 #DB Regist
-| id | podname | podurl | ziplink | username | mail | wichtel |
-+ 0  +  ...
-
-
+<pre>
+| id | date | key | podname | podurl | ziplink | username | mail | wichtel |<br>
+</pre>
