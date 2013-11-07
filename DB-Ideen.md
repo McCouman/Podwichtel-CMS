@@ -19,12 +19,12 @@
 5.) E-Mail Adresse
 - (Eure Mail-Adresse unter der wir mit Euch Kontakt aufnehmen können.)
 
-#DB Regist
+###DB Regist
 <pre>
 | id | date | key | podname | podurl | ziplink | username | mail | wichtel |<br>
 </pre>
 
-## Test
+#### Infos
 **id** 1
 
 **date** 05.11.2013 12:13:35
