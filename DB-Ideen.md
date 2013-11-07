@@ -1,6 +1,6 @@
 ##Register
 
-1. Name des Podcasts 
+1.) Name des Podcasts 
 - (Der Name Eures Podcasts.)
 
 
