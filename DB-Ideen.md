@@ -43,7 +43,30 @@
 
 **wichtel** 6 //id to wichtelcast
 
+<pre>
+--
+-- Datenbank: `podwichteln`
+--
 
+-- --------------------------------------------------------
+
+--
+-- Tabellenstruktur für Tabelle `podwichtel_user`
+--
+
+CREATE TABLE `podwichtel_user` (
+  `id` int(11) unsigned NOT NULL AUTO_INCREMENT,
+  `date` varchar(19) NOT NULL,
+  `key` varchar(40) NOT NULL,
+  `podname` varchar(50) NOT NULL,
+  `podurl` varchar(50) NOT NULL,
+  `ziplink` varchar(150) NOT NULL,
+  `username` varchar(50) NOT NULL,
+  `mail` varchar(50) NOT NULL,
+  `wichtel` varchar(3) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=MyISAM  DEFAULT CHARSET=latin1 AUTO_INCREMENT=0 ;
+</pre>
 #Admin
 
 - download metazip
